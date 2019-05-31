@@ -40,7 +40,7 @@ Things that happen to the html elements.
 
 3. What is an event listener?
 
-A method on an element that will take two arguments, first one to listen to, and second is the callback for when the event is triggered.
+A method on an element that will take two arguments, first one is the listen-to, and second is the callback for when the event is triggered.
 
 4. Why would we convert a NodeList into an Array?
 
